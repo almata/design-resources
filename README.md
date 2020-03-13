@@ -4,7 +4,7 @@ As a UOC student, you may have free access to some Adobe products. However, you 
 
 ### Multipurpose
 
-* [**GIMP**](https://www.gimp.org) 🏷 GIMP is a cross-platform image editor. It is free software. Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done.
+* [GIMP](https://www.gimp.org) ✔️🏷 GIMP is a cross-platform image editor. It is free software. Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done.
 
 ### Prototyping
 
@@ -16,7 +16,7 @@ As a UOC student, you may have free access to some Adobe products. However, you 
 
 * [Gravit Designer](https://www.designer.io) 🏷 Gravit Designer is a free full-featured vector graphic design app that works on ALL platforms.
 * [Sketch](https://www.sketchapp.com) 🏷 Create, prototype, collaborate and turn your ideas into incredible products with the definitive platform for digital design.
-* [**Vectr**](https://vectr.com) 🏷 Vectr is a free web and desktop cross-platform graphics tool software used to create vector graphics easily and intuitively.
+* [Vectr](https://vectr.com) ✔️🏷 Vectr is a free web and desktop cross-platform graphics tool software used to create vector graphics easily and intuitively.
 
 ---
 
@@ -38,7 +38,7 @@ Data visualization is the graphic representation of data. It involves producing 
 
 ### Resources
 
-* [**Flourish**](https://flourish.studio) 🏷 Powerful, beautiful, easy data visualization. Quickly turn your spreadsheets into stunning online charts, maps and interactive stories.
+* [Flourish](https://flourish.studio) ✔️🏷 Powerful, beautiful, easy data visualization. Quickly turn your spreadsheets into stunning online charts, maps and interactive stories.
 * [The Data Visualisation Catalogue](https://datavizcatalogue.com) 🏷 Project developed to create a library of different information visualisation types.
 * [Depict Data Studio Interactive Chart Chooser](https://depictdatastudio.com/charts) 🏷 Wondering which type of graph is the best fit for your data? Explore our interactive chart chooser using the filters. 
 * [Financial Times's Visual vocabulary](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf) 🏷 Use this visual vocabulary to pick the best way to visualise your data. 
