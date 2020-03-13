@@ -22,18 +22,6 @@ As a UOC student, you may have free access to some Adobe products. However, you 
 
 ---
 
-# 🖥 Tutorials
-
-### GIMP
-
-* [GIMP Tutorial: Create an eSports Team Logo (2018)](https://www.youtube.com/watch?v=rvgvUqg-iGs) 🏷 In this tutorial, you'll learn how to create a professional looking team logo that can be used for eSports teams like Overwatch, Dota 2, Call of Duty, StarCraft, World of Warcraft, League of Legends, Major League Gaming, Smite, Heroes of the Storm, and more!
-
-### Video production
-
-* [Learn Light and Sound with Curtis Judd](https://www.youtube.com/user/curtisjudd/playlists) 🏷 Learn lighting and sound for video with a new video every week covering lighting, sound, and camera gear for producing better video and film.
-
----
-
 # 📊 Data visualization
 
 Data visualization is the graphic representation of data. It involves producing images that communicate relationships among the represented data to viewers of the images. This communication is achieved through the use of a systematic mapping between graphic marks and data values in the creation of the visualization. This mapping establishes how data values will be represented visually, determining how and to what extent a property of a graphic mark, such as size or color, will change to reflect changes in the value of a datum. [Source: [Wikipedia](https://en.wikipedia.org/wiki/Data_visualization)]
@@ -60,7 +48,7 @@ Data visualization is the graphic representation of data. It involves producing 
 
 ---
 
-# 🗂 Other design resources
+# 🗂 Other resources
 
 ### Tools
 
@@ -76,8 +64,13 @@ Data visualization is the graphic representation of data. It involves producing 
 * [SVG Repo](https://www.svgrepo.com) 🏷 Explore, search and find the best fitting icons or vector for your projects using wide variety vector library.
 * [Vecteezy](https://www.vecteezy.com) 🏷 Find & download free high quality vector graphics with worry-free licensing for personal and commercial use.
 * [web.dev](https://web.dev) 🏷 Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
-* [Wireframe|cc](https://wireframe.cc) 🏷 Create and share wireframes faster. A powerful, intuitive app for creating low-fidelity wireframes.
+* [Wireframe.cc](https://wireframe.cc) 🏷 Create and share wireframes faster. A powerful, intuitive app for creating low-fidelity wireframes.
 * [Xtensio Persona Template](https://xtensio.com/user-persona) 🏷 This user Persona template allows you to come up with your ideal user “types” by using the intuitive editor to fill in the preset template.
+
+###  Tutorials
+
+* [GIMP Tutorial: Create an eSports Team Logo (2018)](https://www.youtube.com/watch?v=rvgvUqg-iGs) 🏷 In this tutorial, you'll learn how to create a professional looking team logo that can be used for eSports teams like Overwatch, Dota 2, Call of Duty, StarCraft, World of Warcraft, League of Legends, Major League Gaming, Smite, Heroes of the Storm, and more!
+* [Learn Light and Sound with Curtis Judd](https://www.youtube.com/user/curtisjudd/playlists) 🏷 Learn lighting and sound for video with a new video every week covering lighting, sound, and camera gear for producing better video and film.
 
 ### Inspirational sites 
 
@@ -101,21 +94,10 @@ Data visualization is the graphic representation of data. It involves producing 
 
 # 🛠 Technical stuff
 
-### Cloud database
-
-* [Firebase](https://firebase.google.com/products/realtime-database) ✔️ 🏷 Store and sync data in real time.
-* [Google Cloud SQL](https://cloud.google.com/sql) 🏷 Fully managed relational database service for MySQL, PostgreSQL, and SQL server.
-
-### Git
- 
-* [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) 🏷 Cheatsheet with most usual and useful Git commands.
-
-### Mobile apps
-
 * [Appetize.io](https://appetize.io) 🏷 Run native mobile apps in your browser for app demos, training, customer support, development, testing, and more.
-
-### Project management
-
 * [Basecamp](https://basecamp.com) 🏷 Get it together and manage projects the right way.
+* [Firebase](https://firebase.google.com/products/realtime-database) ✔️ 🏷 Store and sync data in real time.
 * [GanttProject](https://www.ganttproject.biz) 🏷 Free project scheduling and management app for Windows, OSX and Linux.
+* [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) 🏷 Cheatsheet with most usual and useful Git commands.
+* [Google Cloud SQL](https://cloud.google.com/sql) 🏷 Fully managed relational database service for MySQL, PostgreSQL, and SQL server.
 * [Teamwork](https://www.teamwork.com/project-management-software) 🏷 Work and project management software that lets teams work, collaborate and communicate seamlessly.
