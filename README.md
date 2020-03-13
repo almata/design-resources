@@ -2,11 +2,19 @@
 
 As a UOC student, you may have free access to some Adobe products. However, you may want to consider these good alternatives for your projects.
 
-* [Axure RP](https://www.axure.com) 🏷 Axure RP 9 is the most powerful way to plan, prototype, and hand off to developers, all without code. 
+### Multipurpose
+
 * [**GIMP**](https://www.gimp.org) 🏷 GIMP is a cross-platform image editor. It is free software. Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done.
-* [Gravit Designer](https://www.designer.io) 🏷 Gravit Designer is a free full-featured vector graphic design app that works on ALL platforms.
+
+### Prototyping
+
+* [Axure RP](https://www.axure.com) 🏷 Axure RP 9 is the most powerful way to plan, prototype, and hand off to developers, all without code. 
 * [InVision](https://www.invisionapp.com) 🏷 The digital product design platform powering the world’s best user experiences.
 * [Justinmind](https://www.justinmind.com) 🏷 All-in-one prototyping tool for web and mobile apps. From wireframes to highly interactive prototypes.
+
+### Vector graphics
+
+* [Gravit Designer](https://www.designer.io) 🏷 Gravit Designer is a free full-featured vector graphic design app that works on ALL platforms.
 * [Sketch](https://www.sketchapp.com) 🏷 Create, prototype, collaborate and turn your ideas into incredible products with the definitive platform for digital design.
 * [**Vectr**](https://vectr.com) 🏷 Vectr is a free web and desktop cross-platform graphics tool software used to create vector graphics easily and intuitively.
 
@@ -62,8 +70,6 @@ Data visualization is the graphic representation of data. It involves producing 
 * [remove.bg](https://www.remove.bg) 🏷 Remove backgrounds 100% automatically in 5 seconds with zero clicks.
 * [web.dev](https://web.dev) 🏷 Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
 
-
-
 ### Inspirational sites 
 
 * [America is more diverse than ever - but still segregated](https://www.washingtonpost.com/graphics/2018/national/segregation-us-cities)
@@ -77,9 +83,6 @@ Data visualization is the graphic representation of data. It involves producing 
 
 ### Interesting reads
 
-* [Leyes o principios de la Gestalt](https://es.wikipedia.org/wiki/Psicolog%C3%ADa_de_la_Gestalt#Leyes_o_principios_de_la_Gestalt)
 * [Explorando los Principios Gestalt del Diseño](https://www.toptal.com/designers/ui/exploring-the-gestalt-principles-of-design)
 * [How Sketch Took on Adobe by Making a Faster, Leaner, Cheaper Image Editor](https://producthabits.com/how-sketch-took-on-adobe-by-making-a-faster-leaner-cheaper-image-editor)
-
-
-
+* [Leyes o principios de la Gestalt](https://es.wikipedia.org/wiki/Psicolog%C3%ADa_de_la_Gestalt#Leyes_o_principios_de_la_Gestalt)
