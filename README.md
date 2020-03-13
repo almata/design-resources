@@ -1,3 +1,5 @@
+> You will find marked with ✔️ the resources we think you really should have a look at!
+
 # Alternatives to Adobe software
 
 As a UOC student, you may have free access to some Adobe products. However, you may want to consider these good alternatives for your projects.
