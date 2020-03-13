@@ -36,10 +36,6 @@ Data visualization is the graphic representation of data. It involves producing 
 * [Financial Times's Visual vocabulary](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf) 🏷 Use this visual vocabulary to pick the best way to visualise your data. 
 * [Data Visualization Society's Instagram](https://www.instagram.com/datavizsociety) 🏷 The Data Visualization Society fosters a community where every member benefits from resources that support growth, refinement, and expansion of data visualization knowledge regardless of expertise level.
 
-
-
-
-
 ### MOOC
 
 * [Data Journalism and Visualization with Free Tools](https://journalismcourses.org/DATA0819.html) 🏷 During this six-week course, which is powered by Google News Initiative, you'll learn about an array of free tools that can help improve your work in data journalism and visualization.
@@ -58,7 +54,7 @@ Data visualization is the graphic representation of data. It involves producing 
 
 ### Tools
 
-* Image banks by UOC Library in [Catalan(http://biblioteca.uoc.edu/ca/recursos/bancs-dimatges) and [Spanish](http://biblioteca.uoc.edu/es/recursos/bancos-de-imagenes) 🏷 Collection of image banks curated by UOC librarians.
+* Image banks by UOC Library in [Catalan](http://biblioteca.uoc.edu/ca/recursos/bancs-dimatges) and [Spanish](http://biblioteca.uoc.edu/es/recursos/bancos-de-imagenes) 🏷 Collection of image banks curated by UOC librarians.
 * [Icons8](https://icons8.com) 🏷 Free icons, photos, vectors, music, and tools.
 * [material design palette](https://www.materialpalette.com) 🏷 Excellent tool to pick color palettes for your designs.
 * [Vecteezy](https://www.vecteezy.com) 🏷 Find & download free high quality vector graphics with worry-free licensing for personal and commercial use.
